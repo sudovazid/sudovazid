@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working in **Accenture**
+- 🔭 I’m currently working @ **Accenture** as Data Engineer Analyst
 
 - 🌱 I’m currently learning **GCP Dataflow**
 

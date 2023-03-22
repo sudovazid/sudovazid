@@ -10,13 +10,13 @@
 
 - 🌱 I’m currently learning **GCP Dataflow**
 
-- 👯 I’m looking to collaborate on **DevOps and Data pipeline, Data ETL Airflow work**
+- 👯 I’m looking to collaborate on **DevOps and Data engineering, and data science**
 
 - 👨‍💻 All of my projects are available at [https://medium.com/@sudovazid](https://medium.com/@sudovazid)
 
 - 📝 I regularly write articles on [https://medium.com/@sudovazid](https://medium.com/@sudovazid)
 
-- 💬 Ask me about **Kubernetes, Terraform, AWS, GCP, Airflow**
+- 💬 Ask me about *Data, DevOps AND Cloud AWS, GCP**
 
-- 📫 How to reach me **vazidmail@protonmail.com**
+- 📫 How to reach me, **sheikh.vazid.ahmed@gmail.com**
 

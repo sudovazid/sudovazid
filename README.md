@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Vazid</h1>
-<h3 align="center">A passionate DEvOps Engineer</h3>
+<h3 align="center">A passionate DevOps Engineer</h3>
 
 
 <P>Sheikh Vazid Ahmed is a Senior DEvOps Engineer with 5 years of experience. He holds a Master of Computer Application in Cloud and storage technology and has 2 cloud associate certifications in AWS and Google cloud. He is skilled in building devops pipelines and automating processes using various tools and technologies. His technical skills include Cloud Technologies, DevOps, Virtualization, Networking, Operating Systems, Scripting, Automation, and Containerization.</p>

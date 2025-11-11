@@ -3,11 +3,8 @@
 ### About Me
 I am Sheikh Vazid Ahmed, a passionate DevOps Engineer with over 5 years of experience. I hold a Master of Computer Application in Cloud and Storage Technology and am certified in AWS and Google Cloud Platform. My expertise lies in building robust DevOps pipelines, automating processes, and optimizing cloud infrastructure.
 
-### 🔭 Currently Seeking
-I am actively looking for opportunities as a DevOps Engineer where I can contribute my skills and expertise.
-
 ### 🌱 Currently Learning
-I am currently diving deeper into Machine Learning applications in DevOps to enhance my skills in this evolving field.
+I am currently diving deeper into MLOps to enhance my skills in this evolving field.
 
 ### 👯 Open to Collaboration
 I am eager to collaborate on projects involving DevOps engineering and data science, leveraging my technical skills and experience.
